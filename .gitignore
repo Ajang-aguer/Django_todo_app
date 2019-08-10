@@ -1,0 +1,11 @@
+# virtualenv
+.todoenv
+
+# python related files
+*.pyc
+*.pyo
+__pycache__
+
+
+# sqlite db
+*.sqlite3
